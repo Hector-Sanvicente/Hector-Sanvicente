@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 MSc mechatronics student at KTH!
+
 🔭 Learning about Embedded systems, AI, data analysis and more!
 
 Fun fact: Still lerning to use git hehe
